@@ -21,7 +21,7 @@ class Messages():
         
         "**Examples**\n```/inkick within_month long_time_ago``` - **To kick users who are offline for more than 6-7 days.**\n\n```/inkick long_time_ago``` - **To kick members who are offline for more than a month and Deleted Accounts.**\n\n```/dkick``` - **To kick deleted accounts.**",
         
-        "**⭕️ My Name : 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 𝗕𝗢𝗧**\n\n**⭕️ Creater : @Iggie**\n\n**⭕️ Language :** `Python3`\n\n**⭕️ Library :** [Pyrogram Asyncio 0.16.1](https://docs.pyrogram.org/, disable_web_page_preview=True)\n\n**⭕️ Source Code : 👉** [Click Here](https://t.me/NoSourceCode)**"
+        "**⭕️ My Name : 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 𝗕𝗢𝗧**\n\n**⭕️ Creater : @Iggie**\n\n**⭕️ Language :** `Python3`\n\n**⭕️ Library :** **Pyrogram Asyncio 0.16.1**\n\n**⭕️ Source Code : 👉** [Click Here](https://t.me/NoSourceCode)**"
         ]
 
       START_MSG = "**Hello [{}](tg://user?id={}) 😀,** **I can 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 from groups with the help of some commands 😎.\n\nLearn more by clicking /help**"
