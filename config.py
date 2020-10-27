@@ -24,7 +24,7 @@ class Messages():
         "**⭕️ My Name : 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 𝗕𝗢𝗧**\n\n**⭕️ Creater : @Iggie**\n\n**⭕️ Language :** `Python3`\n\n**⭕️ Library :** **Pyrogram Asyncio 0.16.1**\n\n**⭕️ Source Code : 👉** [Click Here](https://t.me/NoSourceCode)**"
         ]
 
-      START_MSG = "**Hello [{}](tg://user?id={}) 😀,** **I can 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 from groups with the help of some commands 😎.\n\nLearn more by clicking /help**"
+      START_MSG = "**Hello [{}](tg://user?id={}) 👋,**\n**I can 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 from groups\nwith the help of some commands 😎. Learn more by clicking /help**"
       
       CREATOR_REQUIRED = "❗ **You have to be the group creator to do that.**"
       
