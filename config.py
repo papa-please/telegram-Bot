@@ -24,7 +24,7 @@ class Messages():
         "**Developer - @Iggie**"
         ]
 
-      START_MSG = "**Hello [{}](tg://user?id={}) 😀,** **I can <ins>kick inactive members</ins> from groups with the help of some commands 😎.\n\nLearn more by clicking /help**"
+      START_MSG = "**Hello [{}](tg://user?id={}) 😀,** **I can 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 from groups with the help of some commands 😎.\n\nLearn more by clicking /help**"
       
       CREATOR_REQUIRED = "❗ **You have to be the group creator to do that.**"
       
