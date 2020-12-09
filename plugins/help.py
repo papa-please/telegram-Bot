@@ -39,7 +39,7 @@ def map(pos):
             [InlineKeyboardButton(text = '☆》', callback_data = "help+2")]
         ]
     elif(pos==len(tr.HELP_MSG)-1):
-        url = "https://github.com/viperadnan-git/telegram-bots/issues/new"
+        url = "https://t.me/Hungama_TV"
         button = [
             [InlineKeyboardButton(text = 'Support Chat', url="https://t.me/LoGoChatRooM")],
             [InlineKeyboardButton(text = 'Feature Request & Issues', url=url)],
