@@ -15,16 +15,17 @@ class Messages():
       HELP_MSG = [
         ".",
 
-        "**Kick Inactive Members**\n**Kick inactive members from group. Add me as admin with ban users permission in group send the /inkick command with required arguments and i will kick members from group.\nUse /instatus to check current status of chat members.\n\nSee next page for command information & usages.**",
+        "**Kick Inactive Members**\n__Kick incative members from group. Add me as admin with ban users permission in group send the /inkick command with required arguments and i will kick members from group.\nUse /instatus to check current status of chat members.\n\nSee next page for command information & usages.__",
         
-        "**Command**\n**/instatus - Get current members status.\n/dkick - Kick all deleted accounts from group.\n/inkick (arguments) - Kick inactive members from group.\nUse arguments with caution and seperated by space.**\n\n**Arguments -** **User’s Last Seen & Online status. Can be one of the following: “online”, user is online right now. “offline”, user is currently offline. “recently”, user with hidden last seen time who was online between 1 second and 2-3 days ago. “within_week”, user with hidden last seen time who was online between 2-3 and seven days ago. “within_month”, user with hidden last seen time who was online between 6-7 days and a month ago. “long_time_ago”, blocked user or user with hidden last seen time who was online more than a month ago. None, for bots.**\n\n**See next page for examples.**",
+        "**Command**\n__/instatus - Get current members status.\n/dkick - Kick all deleted accounts from group.\n/inkick (arguments) - Kick inactive members from group.\nUse arguments with caution and seperated by space.__\n\n**Arguments -** __User’s Last Seen & Online status. Can be one of the following: “online”, user is online right now. “offline”, user is currently offline. “recently”, user with hidden last seen time who was online between 1 second and 2-3 days ago. “within_week”, user with hidden last seen time who was online between 2-3 and seven days ago. “within_month”, user with hidden last seen time who was online between 6-7 days and a month ago. “long_time_ago”, blocked user or user with hidden last seen time who was online more than a month ago. None, for bots.__\n\nSee next page for examples.",
         
-        "**Examples**\n```/inkick within_month long_time_ago``` - **To kick users who are offline for more than 6-7 days.**\n\n```/inkick long_time_ago``` - **To kick members who are offline for more than a month and Deleted Accounts.**\n\n```/dkick``` - **To kick deleted accounts.**",
+        "**Examples**\n```/inkick within_month long_time_ago``` - __To kick users who are offline for more than 6-7 days.__\n\n```/inkick long_time_ago``` - __To kick members who are offline for more than a month and Deleted Accounts.__\n\n```/dkick``` - __To kick deleted accounts.__",
         
-        "**⭕️ My Name : 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 𝗕𝗢𝗧**\n\n**⭕️ Creater : @Iggie**\n\n**⭕️ Language :** `Python3`\n\n**⭕️ Library :** **Pyrogram Asyncio 0.16.1**\n\n**⭕️ Source Code : 👉** [Click Here](https://t.me/NoSourceCode)**"
+        "**Developer - @Baby_xD**"
         ]
 
-      START_MSG = "**Hello [{}](tg://user?id={}) 👋,**\n**I Can 𝗞𝗜𝗖𝗞 𝗜𝗡𝗔𝗖𝗧𝗜𝗩𝗘 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 From Groups\nWith The Help Of Some Commands 🚫. Learn More By Clicking /help**"
+
+      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can kick inactive members from group.\nLearn more at /help__"
       
       CREATOR_REQUIRED = "❗ **You have to be the group creator to do that.**"
       
