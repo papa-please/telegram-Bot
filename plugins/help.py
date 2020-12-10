@@ -42,7 +42,7 @@ def map(pos):
         url = "https://t.me/Hungama_TV"
         button = [
             [InlineKeyboardButton(text = 'Support Chat', url="https://t.me/LoGoChatRooM")],
-            [InlineKeyboardButton(text = 'Feature Request & Issues', url=url)],
+            [InlineKeyboardButton(text = 'Source Code', url=url)],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
         ]
     else:
