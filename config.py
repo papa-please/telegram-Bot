@@ -7,9 +7,9 @@ class Config():
     APP_ID = os.environ.get("APP_ID", 6)
     API_HASH = os.environ.get("API_HASH", None)
   else:
-    BOT_TOKEN = ""
-    APP_ID = "1063"
-    API_HASH = "dee7a"
+    BOT_TOKEN = "1487480282:AAG23ikbuVH-HaUcKe-mGVtPEAfcXsAtX18"
+    APP_ID = "1061393"
+    API_HASH = "dee44b60afe8fd325a96f5237e495d7a"
 
 class Messages():
       HELP_MSG = [
